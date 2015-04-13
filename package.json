@@ -1,0 +1,17 @@
+{
+  "name": "CursoNode",
+  "description": "Este es el curso de Node en DevCode.la",
+  "version": "0.0.1",
+  "author": "Richi Gallego",
+  "dependencies": {
+    "cookie-parser": "^1.3.4",
+    "express": "^4.12.3",
+    "express-session": "^1.10.4",
+    "passport": "^0.2.1",
+    "passport-facebook": "^2.0.0",
+    "passport-twitter": "^1.0.3",
+    "socket.io": "^1.3.5",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {}
+}
